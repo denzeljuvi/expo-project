@@ -11,7 +11,6 @@ import {
   } from 'react-native';
 import { getProduct } from '../services/ProductsService.js';
 import { CartContext } from '../CartContext';
-import { TouchableOpacity } from 'react-native-gesture-handler';
 export function ProductDetails({route}) {
   const { productId } = route.params;
   const [product, setProduct] = useState({});

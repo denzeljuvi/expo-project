@@ -10,21 +10,21 @@ const PRODUCTS = [
         id: 101,
         name: 'FastLane Toy Car',
         price: 600,
-        image: require('../assets/Products/toycar.jfif'),
+        image: require('../assets/Products/toycar.jpg'),
         description: 'A model car is a miniature representation of an automobile. Other miniature motor vehicles, such as trucks, buses, or even ATVs, etc. are often included in this general category.'
     },
     {
         id: 102,
         name: 'SweetHome Cupcake',
         price: 2,
-        image: require('../assets/Products/cupcake.jfif'),
+        image: require('../assets/Products/cupcake.png'),
         description: 'A cupcake (also British English: fairy cake; Hiberno-English: bun; Australian English: fairy cake or patty cake[1]) is a small cake designed to serve one person.'
     },
     {
         id: 104,
         name: 'ADDIESDIVE Pilot Watch',
         price: 120,
-        image: require('../assets/Products/Watch.jfif'),
+        image: require('../assets/Products/Watch.jpg'),
         description: 'The Addiesdive quality watch from japan, corrosion resistance, made from synthetic sapphire with super luminescent.'
     },
     {
